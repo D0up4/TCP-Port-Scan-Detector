@@ -1,20 +1,18 @@
-# TCP Port Scan Detector
+# 🔍 TCP Port Scan Detector
 
-## Author
-D0up4
-
-## Last Updated
-06/2025
+**Author:**  D0up4  
+**Project Type:** Blue Team / Educational  
+**Last Updated:** 06/2025
 
 ---
 
-## Description
+## 📘 Description
 
 This project is a lightweight TCP port scan detector built with Python and Scapy. It captures live TCP traffic on a network interface and analyzes SYN packets to identify potential port scanning or brute-force activity based on the frequency of connection attempts to different ports.
 
 ---
 
-## Features
+## ⚙️ Features
 
 - Captures live TCP packets using Scapy
 - Detects suspicious SYN packet bursts indicating possible port scans or brute-force attacks
@@ -24,7 +22,7 @@ This project is a lightweight TCP port scan detector built with Python and Scapy
 
 ---
 
-## Usage
+## 🚀 Usage
 
 Run the script with administrative privileges to allow packet capturing:
 
