@@ -1,7 +1,7 @@
 # 🔍 TCP Port Scan Detector
 
 **Author:**  D0up4  
-**Project Type:** Blue Team / Educational  
+**Project Type:** Real-world Blue team tool.
 **Last Updated:** 06/2025
 
 ---
