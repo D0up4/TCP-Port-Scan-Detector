@@ -14,11 +14,11 @@ This project is a lightweight TCP port scan detector built with Python and Scapy
 
 ## ⚙️ Features
 
-- Captures live TCP packets using Scapy
-- Detects suspicious SYN packet bursts indicating possible port scans or brute-force attacks
-- Configurable thresholds for detection sensitivity (number of attempts and time window)
-- Simple console output alerts when suspicious activity is detected
-- Pure Python implementation with minimal dependencies
+- ✅ Captures live TCP packets using Scapy
+- ✅ Detects suspicious SYN packet bursts indicating possible port scans or brute-force attacks
+- ✅ Configurable thresholds for detection sensitivity (number of attempts and time window)
+- ✅ Simple console output alerts when suspicious activity is detected
+- ✅ Pure Python implementation with minimal dependencies
 
 ---
 
